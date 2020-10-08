@@ -1,0 +1,12 @@
+.container{
+  height: 660px;
+}
+
+.card{
+  height: 500px;
+  overflow-y: scroll;
+}
+
+.optionButtons{
+  border-radius: 20px;
+}
